@@ -1,0 +1,15 @@
+body {
+  font-family: Arial,verdana, Helvetica, sans-serif;
+}
+/*Encabesado de nivel 1(div)*/
+main h1 {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 32px;
+  font-variant: small-caps;
+}
+/*Encabesado de nivel 2(h3)*/
+h2 {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 24px;
+  font-variant: small-caps;
+}

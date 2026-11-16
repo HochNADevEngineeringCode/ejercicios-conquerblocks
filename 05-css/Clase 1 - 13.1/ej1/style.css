@@ -1,0 +1,45 @@
+body{
+  color:#000000; /*color del texto (negro)*/
+  font-family:arial; /*fuente del texto(arial)*/
+  font-size: 0.9em; /*grosor del texto*/
+  line-height: 1.4em; /*espacio entre las lineas del texto*/
+}
+
+article h2 {
+  color:#CC6600;
+  font-size:1.6em;
+  line-height:1.2em;
+}
+
+nav {
+  background-color:blue;
+}
+
+nav a {
+  color:#FFFFFF;
+  font-size: 1.3em;
+}
+
+.sidebar-left {
+  font-size: 0.9em;
+}
+
+.fecha {
+  color: #999999;          /* Gris claro */
+}
+
+.noticias h3 {
+  color:#003366;
+}
+
+.publicidad {
+  color: #555555;          /* Gris oscuro */
+}
+
+.publicidad a {
+  color: #CC6600;          /* Naranja/Marrón de enlaces */
+}
+
+.articulo a {
+  color: #CC6600;
+}

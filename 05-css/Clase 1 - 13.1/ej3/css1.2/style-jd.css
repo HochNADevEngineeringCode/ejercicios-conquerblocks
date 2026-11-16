@@ -1,0 +1,32 @@
+/* El contenedor general que envuelve a las cajas */
+.contenedor {
+  border: 3px solid red;
+  padding: 15px;
+}
+
+/* Primera caja */
+.caja-verde {
+  width: 50%;
+  border: 2px solid green;
+  padding: 10px;
+  margin-top: 10px;
+  margin-left: 10px;
+}
+
+/* Segunda caja */
+.caja-azul {
+  width: 50%;
+  border: 2px solid blue;
+  padding: 10px;
+  margin-top: 10px;
+  margin-left: 50px;
+}
+
+/* Tercera caja */
+.caja-naranja {
+  width: 50%;
+  border: 2px solid orange;
+  padding: 10px;
+  margin-top: 10px;
+  margin-left: 100px;
+}

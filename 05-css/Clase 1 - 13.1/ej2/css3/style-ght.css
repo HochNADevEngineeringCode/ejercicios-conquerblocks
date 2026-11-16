@@ -1,0 +1,27 @@
+body {
+  font-family: Calibri, 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif
+}
+/*Encabesado de nivel 1(div)*/
+main h1 {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif, 'Times New Roman', Times, serif;
+  color: #1f497d;
+  background-color: #bfbfbf;
+  font-size: 24px;
+  letter-spacing: 0.5em;
+  font-variant: small-caps;
+  text-align: center;
+  text-transform: uppercase;
+}
+/*Encabesado de nivel 2(h3)*/
+h2 {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color:#632423;
+  font-size: 18px;
+  letter-spacing:0.5em;
+  font-variant: small-caps;
+  text-transform: uppercase;
+}
+/*Contenido de las listas*/
+section {
+  font-variant: small-caps;
+}

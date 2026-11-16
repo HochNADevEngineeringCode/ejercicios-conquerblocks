@@ -1,0 +1,25 @@
+.contenedor {
+    border: 5px solid red;
+    padding: 10px;
+    width: 75%;
+}
+.caja_verde {
+width: 50%;
+border: 4px solid green;
+padding: 10px 0px;
+}
+.caja_azul {
+    border: 4px solid blue;
+    width: 50%;
+    margin-left: 50px;
+    margin-top: 10px;
+    padding: 10px 0px;
+}
+.caja_naranja {
+    border: 4px solid orange;
+    width: 50%;
+    margin-left: 100px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    padding: 10px 0px;
+}
